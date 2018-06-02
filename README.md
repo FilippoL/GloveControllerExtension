@@ -42,7 +42,7 @@ Once python is installed, make sure to download the following serial library
 using pip or from source [here](https://pythonhosted.org/pyserial/):
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    $ pip install pyserial
+$ pip install pyserial
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 License
